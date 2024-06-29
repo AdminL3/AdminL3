@@ -1,3 +1,8 @@
 - 👋 Hi, I’m @AdminL3
-- 👀 I’m interested in Programming :)
-- 🌱 I’m currently learning Flutter/Dart (Mobile CrossPlatform App Development)
+- 🌱 I’m currently learning React Native
+
+I know the basics of:
+- Flutter
+- Web Dev
+- Godot
+- React Native
