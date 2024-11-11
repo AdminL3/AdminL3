@@ -8,7 +8,7 @@ l've been learning to code for around 7 years, since I was in primary. I started
 
 * 🌍  I'm based in Munich
 * ✉️  You can contact me at [l-blu@outlook.de](mailto:l-blu@outlook.de)
-* 🚀  I'm currently working on [A "Jugend Forscht" Project](http://jugend-forscht.de/)
+* 🚀  I'm currently working on [A "Jugend Forscht" Project](http://jugend-forscht.de/) --> Currently on private
 * 🧠  I'm learning Advanced Python
 * 🤝  I'm open to collaborating on everything
 * ⚡  I'm addicted to programming! But don't tell anyone! 🤫🤫
