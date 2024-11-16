@@ -6,7 +6,12 @@ Python Developer
 
 l've been learning to code for around 7 years, since I was in primary. I started out with basic HTML but lately really found my calling for python development...
 
-* 🚀  I'm currently working on [A "Jugend Forscht" Project](http://jugend-forscht.de/) --> Look at it [Here](https://github.com/AdminL3/Jugend-Forscht)
+
+* 🚀 I'm currently working on: Analysing every Article of the New York Times. [Check it out!](https://github.com/AdminL3/Jugend-Forscht)
+* It's a "Jugend Forscht" Project! ([This](https://www.jugend-forscht.de/) is their website)
+
+
+
 * 🌍  I'm based in Munich
 * ✉️  You can contact me at [l-blu@outlook.de](mailto:l-blu@outlook.de)
 * 🧠  I'm learning Advanced Python
