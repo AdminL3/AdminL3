@@ -4,10 +4,10 @@
 
 ### Active Project
 
-🚀  I'm currently working on [Analysing the New York Times](http://github.com/AdminL3/Jugend-Forscht)
-🎯  First to ever do it
-💪  My biggest project ever
-🌟  It's a [Jugend Forscht](https://www.jugend-forscht.de/) project
+- 🚀  I'm currently working on [Analysing the New York Times](http://github.com/AdminL3/Jugend-Forscht)
+- 🎯  First to ever do it
+- 💪  My biggest project ever
+- 🌟  It's a [Jugend Forscht](https://www.jugend-forscht.de/) project
 
 ---
 
