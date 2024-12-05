@@ -16,6 +16,12 @@
 - 🤝  I'm open to collaborating on interesting projects 👀👀
 - ⚡  I'm addicted to programming! But don't tell anyone! 🤫🤫
 
+---
+
+### Daily.dev
+
+<a href="https://app.daily.dev/levi19"><img src="https://api.daily.dev/devcards/v2/PA4pQudfZ5gL5AzbJkFtE.png?type=default&r=szf" width="356" alt="Levi's Dev Card"/></a>
+
 ### Skills
 
 <p align="left">
